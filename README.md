@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abbygail Ethan Elham Robinson-Studer !
 - 👀 I’m interested in Programming algorithms and AI, Network and SysAdmin and Cybersecurity
-- 🌱 I’m currently learning Programming at 42 Lausanne.
+- 🌱 I’m currently programming a Discord bot in Python.
 - 💞️ I’m looking to collaborate on a ton of projects.
 - 📫 How to reach me :
 - Discord: Abbygail Ethan | Jeremy974®™#7821
